@@ -62,7 +62,7 @@ u1 = User.new({username: "name", email: "email@email.com", password: "password"}
 
 - Github: [@Abhigyan001](https://github.com/Abhigyan001)
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhigyan-mahanta-b49799145/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhigyan001/)
 
 👤 Khalil Hamdi
 
